@@ -1,3 +1,7 @@
+Para testar o app utilize o usuario e senha abaixo
+email: usuario@gmail.com 
+senha: 123456
+
 # bootquim_soulbreja
 
 A new Flutter project.
